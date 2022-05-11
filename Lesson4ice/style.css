@@ -1,0 +1,48 @@
+body {
+    background-color: #fca6c9;
+}
+h1:hover{
+    color: black;
+}
+.pageContent {
+    text-align: center;
+    width: 450px;
+    margin: 0 auto;
+}
+.pageContent ol {
+    text-align: left;
+}
+.pageContent ol li{
+    line-height: 33px;
+}
+.coolFont {
+    font-family: Arial, sans ;
+}
+.white{
+color: white;
+}
+
+.quotation {
+    margin: 20px 70px ;
+    font-size: 35px;
+}
+.quotation:before {
+    content: '❝';
+    margin-right: 5px;
+}
+.quotation:after {
+    content: '❞';
+    margin-right: 5px;
+}
+
+img {
+    width: 150px;
+}
+footer {
+    margin: 0 70px
+}
+footer p{
+font-size: 80%;
+margin: 3px;
+
+}
