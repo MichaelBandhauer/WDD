@@ -1,0 +1,23 @@
+.content {
+    max-width: 1600px;
+    margin: 0 auto
+}
+
+.hero-msg {
+    text-align: center;
+}
+
+.background {
+    height: 725px;
+}
+
+body {
+    background-color: #83C5BE;
+}
+header {
+    background-color: azure;
+}
+
+img {
+    max-width: 400px;
+}
